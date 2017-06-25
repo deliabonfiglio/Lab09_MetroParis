@@ -176,7 +176,6 @@ public class Model {
 			} else {
 				risultato.append(", ");
 			}
-			
 		}
 		risultato.setLength(risultato.length() - 2);
 		risultato.append("]");
